@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/log-form/static/css/main.78c50081.css",
-    "main.js": "/log-form/static/js/main.5c64aeb1.js",
+    "main.js": "/log-form/static/js/main.08828eb6.js",
     "static/media/Rubik-Regular.ttf": "/log-form/static/media/Rubik-Regular.da39336cfcac7980f2f1.ttf",
     "static/media/Rubik-Black.ttf": "/log-form/static/media/Rubik-Black.2b561a8eed0dced30c19.ttf",
     "static/media/Rubik-Light.ttf": "/log-form/static/media/Rubik-Light.7ee66bf7f540d7bbc3a1.ttf",
     "static/media/external-learning-artificial-intelligence-becris-lineal-becris.png": "/log-form/static/media/external-learning-artificial-intelligence-becris-lineal-becris.c968d502f405cf8d2554.png",
     "index.html": "/log-form/index.html",
     "main.78c50081.css.map": "/log-form/static/css/main.78c50081.css.map",
-    "main.5c64aeb1.js.map": "/log-form/static/js/main.5c64aeb1.js.map"
+    "main.08828eb6.js.map": "/log-form/static/js/main.08828eb6.js.map"
   },
   "entrypoints": [
     "static/css/main.78c50081.css",
-    "static/js/main.5c64aeb1.js"
+    "static/js/main.08828eb6.js"
   ]
 }
