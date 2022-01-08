@@ -14,11 +14,11 @@ const Signin = () => {
                 <div className='logSection-2'>
                     <div className='logSection-2-head'>
                         <h3><div className='big-signin'>
-                            <Link className='linkin' to="/signin"> Sign in </Link>
+                            <Link className='linkin' to="/log-form/signin"> Sign in </Link>
                         </div></h3>
                         <h4>or</h4>
                         <h3><div className='big-signup'>
-                            <Link className='linkin' to="/signup"> Sign up </Link>
+                            <Link className='linkin' to="/log-form/signup"> Sign up </Link>
                         </div></h3>
                     </div>
                     <div className='logSection-2-form'>
@@ -27,7 +27,7 @@ const Signin = () => {
                             <input id='password-inp-id' name='password-inp' type='password' placeholder='Password'></input>
                             <div id='devLog'>
                                 <button id='btn-inp-id'>Sign in</button>
-                                <label><Link to="/signup">Sing up</Link></label>
+                                <label><Link to="/log-form/signup">Sing up</Link></label>
                             </div>
                         </form>
                     </div>

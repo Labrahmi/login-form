@@ -10,8 +10,8 @@ class App extends Component{
             <>
             <Routes>
                 <Route exact path = '/log-form/' element = {<Signin />} />
-                <Route path = '/signin' element = {<Signin />} />
-                <Route path = '/signup' element = {<Signup />} />
+                <Route path = '/log-form/signin' element = {<Signin />} />
+                <Route path = '/log-form/signup' element = {<Signup />} />
             </Routes>
             </>
             </BrowserRouter>
